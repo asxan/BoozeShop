@@ -25,7 +25,7 @@ SECRET_KEY = 'ckh2!l-=lq(tl=933^ho%l8&frb3_=f_7upscs=7_txu&l!l1&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
